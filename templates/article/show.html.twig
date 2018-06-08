@@ -1,3 +1,6 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
 {# comments! #}
 <h1>{{ title }}</h1>
 
@@ -11,3 +14,12 @@
         Phasellus sed blandit mauris. Vivamus aliquet purus vel ipsum luctus, tempor consequat urna vestibulum. Proin vulputate quam sed sagittis convallis. Aenean euismod accumsan tellus at laoreet. Phasellus non tempus quam, eu vulputate enim. Etiam ac tincidunt tellus. Fusce vestibulum in ante non fringilla. Quisque fermentum nisi sapien, nec bibendum mi congue in. Morbi suscipit arcu ut orci blandit commodo. Maecenas porta eu ligula at porttitor. Nulla facilisi.
     </p>
 </div>
+
+<h2>Comments ({{ comments|length }})</h2>
+
+<ul>
+    {% for comment in comments %}
+        <li>{{ comment }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
