@@ -25,12 +25,15 @@
         "symfony/yaml": "^3.4"
     },
     "require-dev": {
+        "easycorp/easy-log-handler": "^1.0.2",
         "sensiolabs/security-checker": "^4.1",
-        "symfony/debug-pack": "*",
+        "symfony/debug-bundle": "^3.3|^4.0",
         "symfony/dotenv": "^3.4",
         "symfony/maker-bundle": "^1.0",
-        "symfony/profiler-pack": "*",
+        "symfony/monolog-bundle": "^3.0",
+        "symfony/profiler-pack": "^1.0",
         "symfony/test-pack": "^1.0",
+        "symfony/var-dumper": "^3.3|^4.0",
         "symfony/web-server-bundle": "^3.4"
     },
     "config": {
