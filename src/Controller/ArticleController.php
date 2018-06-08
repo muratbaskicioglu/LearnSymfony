@@ -15,11 +15,11 @@ use Symfony\Component\HttpFoundation\Response;
 class ArticleController extends AbstractController
 {
     /**
-     * @Route("/")
+     * @Route("/", name="app_homepage")
      */
     public function homepage()
     {
-        return new Response('asdasd');
+        return $this->render('article/homepage.html.twig');
     }
 
     /**
