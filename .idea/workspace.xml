@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="03c3c332-b36f-4f4e-b58f-1723a42a5db1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/templates/article/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/article/show.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="show.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/article/show.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="493">
+              <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -275,7 +274,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7607000" />
+    <option name="totallyTimeSpent" value="7945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -493,10 +492,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/templates/article.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" lean-forward="true" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/article/show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="493">
+          <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
         </state>
       </provider>
     </entry>
