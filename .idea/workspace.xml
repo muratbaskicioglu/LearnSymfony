@@ -19,13 +19,13 @@
       <file leaf-file-name="ArticleController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+            <state relative-caret-position="420">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#6#90#0#PHP" expanded="true" />
                 <element signature="e#119#147#0#PHP" expanded="true" />
                 <element signature="e#468#496#1#PHP" expanded="true" />
-                <element signature="e#808#832#0#PHP" expanded="true" />
+                <element signature="e#1015#1039#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -317,7 +317,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13134000" />
+    <option name="totallyTimeSpent" value="13821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -373,7 +373,7 @@
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="e#119#147#0#PHP" expanded="true" />
             <element signature="e#468#496#1#PHP" expanded="true" />
-            <element signature="e#808#832#0#PHP" expanded="true" />
+            <element signature="e#1015#1039#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -396,7 +396,7 @@
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="e#119#147#0#PHP" expanded="true" />
             <element signature="e#468#496#1#PHP" expanded="true" />
-            <element signature="e#808#832#0#PHP" expanded="true" />
+            <element signature="e#1015#1039#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -436,7 +436,7 @@
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="e#119#147#0#PHP" expanded="true" />
             <element signature="e#468#496#1#PHP" expanded="true" />
-            <element signature="e#808#832#0#PHP" expanded="true" />
+            <element signature="e#1015#1039#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -459,7 +459,7 @@
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="e#119#147#0#PHP" expanded="true" />
             <element signature="e#468#496#1#PHP" expanded="true" />
-            <element signature="e#808#832#0#PHP" expanded="true" />
+            <element signature="e#1015#1039#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -472,7 +472,7 @@
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="e#119#147#0#PHP" expanded="true" />
             <element signature="e#468#496#1#PHP" expanded="true" />
-            <element signature="e#808#832#0#PHP" expanded="true" />
+            <element signature="e#1015#1039#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -495,7 +495,7 @@
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="e#119#147#0#PHP" expanded="true" />
             <element signature="e#468#496#1#PHP" expanded="true" />
-            <element signature="e#808#832#0#PHP" expanded="true" />
+            <element signature="e#1015#1039#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -562,13 +562,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/ArticleController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        <state relative-caret-position="420">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="e#119#147#0#PHP" expanded="true" />
             <element signature="e#468#496#1#PHP" expanded="true" />
-            <element signature="e#808#832#0#PHP" expanded="true" />
+            <element signature="e#1015#1039#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
