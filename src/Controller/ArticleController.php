@@ -23,7 +23,7 @@ class ArticleController extends AbstractController
     }
 
     /**
-     * @Route("/news/{slug}");
+     * @Route("/news/{slug}", name="article_show");
      */
     public function show($slug)
     {
@@ -37,5 +37,13 @@ class ArticleController extends AbstractController
             'title' => ucwords(str_replace('-', ' ', $slug)),
             'comments' => $comments,
         ]);
+    }
+
+    /*
+     * @Route('/news/{slug}/heart", name="article_toggle_heart");
+     */
+    public function toggleArticleHeart($slug)
+    {
+        return new JsonResponse(['hearts' => rand(5, 100)]);
     }
 }
